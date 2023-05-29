@@ -46,7 +46,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>java-cicd-githubaction</finalName>
 	</build>
 
 </project>
